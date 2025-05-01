@@ -6,6 +6,10 @@ Harness the flexibility of **Dapr open-source** within Kubernetes, or expedite y
 
 Whether you're orchestrating autonomous agents, designing durable AI pipelines, or ensuring responsible AI behavior, this hackathon is your opportunity to push the boundaries of distributed intelligence.
 
+## Rules and Eligibility
+
+Read the [Official Content Rules](./OfficialContestRules.md) thoroughly for all contest rules and eligibility criteria.
+
 ## 🗓️ Timeline
 
 - **Hackathon Kickoff:** 5/9  
@@ -99,7 +103,7 @@ Once you have completed the registration, you will receive a confirmation email 
 To qualify for judging, your `Project Submission` issue must be updated by 6/27 to include:
 
 - **Project Name and Summary:** A brief overview of your application and its core use case.
-- **Which theme you’re submitting under** (from the four provided)
+- **Which category you’re submitting under** (from the four provided)
 - **Technology Used:** Indicate whether you used Dapr OSS, Catalyst, or both — and which Dapr APIs you leveraged (Workflow API, Pub/Sub, State, etc.).
 - **Link to Code Repository:** A URL to a GitHub repository where the code for the project is hosted. The repository should contain a `README.md` file outlining the project's features and functionality with instructions on how to run and deploy the solution. If your repo is private, access must be granted to the judging panel.
 - **Demo Video (3–5 minutes):** Show the working application, the workflow or agent behavior, and highlight how Dapr and/or Catalyst was used.
@@ -110,20 +114,21 @@ To qualify for judging, your `Project Submission` issue must be updated by 6/27 
 
 | Category | Details |
 |----------|---------|
-| **Project Completeness and Theme Alignment** | Clear, meaningful use of orchestration patterns and alignment to a challenge category |
+| **Project Completeness and Category Alignment** | Clear, meaningful use of orchestration patterns and alignment to a challenge category |
 | **Creativity and Innovation** | Originality of the problem and solution |
 | **Technical Excellence** | Code quality and solution completeness, use of Dapr building blocks effectively |
+| **Project Delivery** | Clear articulation of the project’s architecture, approach, and implementation |
 | **Distributed Thinking (Bonus)** | Extra credit for apps spanning multiple platforms, edge, serverless (especially via Catalyst) |
 
 ## 🏆 Prizes totalling $6,000
 
 | Prize | Description | Amount |
 |-------|-------------|--------|
-| 🥇 **Best Overall Project** | Top-scoring project across all themes | $2,500 |
-| 🥈 **Runner Up Project** | Second place project across all themes | $1,000 |
+| 🥇 **Grand Prize** | Top-scoring project across all categories | $2,500 |
+| 🥈 **Runner Up** | Second place project across all categories | $1,000 |
 | 🌟 **Most Creative Use Case** | Awarded to the project with a creative and innovative solution | $1,000 |
 | 💡 *(Bonus)* **Best use of AI in solution development** | Best use of AI-powered tools to accelerate or enhance the project | $500 |
-| 🧩 *(Bonus)* **Best use of Catalyst** | Most creative solution using serverless Dapr via Catalyst | $500 |
-| 🗣️ *(Bonus)* **Most Valuable Feedback (x2)** | For participants who provide valuable feedback related to Dapr and/or Catalyst | $250 × 2 |
+| 🧩 *(Bonus)* **Best Catalyst solution** | Most creative solution using serverless Dapr via Catalyst | $500 |
+| 🗣️ *(Bonus)* **Most Valuable Feedback (x4)** | For participants who provide valuable feedback related to Dapr and/or Catalyst | $125 |
 
-*Note:* Projects that win overall prizes are also eligible for the Bonus prizes
+*Note:* Projects that win overall prizes are also eligible for up to one bonus prize
