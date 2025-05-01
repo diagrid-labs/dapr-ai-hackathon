@@ -1,0 +1,73 @@
+name: Project Submission
+description: Submit your project for the Dapr AI Hackathon
+title: "[SUBMISSION] Your Project Name"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Dapr AI Hackathon Project Submission
+
+        Thank you for participating in the Dapr AI Hackathon! Please provide the following information to submit your project. You are free to update this information and the submitted repo until the submission deadline on **June 27, 2025, 11:59 PM PT**.
+
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: Provide your project name
+      placeholder: "My Amazing Dapr Project"
+    validations:
+      required: true
+
+  - type: input
+    id: repository-link
+    attributes:
+      label: Repository Link
+      description: Provide a link to your GitHub repository containing your complete project submission
+      placeholder: "https://github.com/yourusername/your-repo-name"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Choose the category that best fits your project
+      options:
+        - Collaborative Intelligence
+        - Workflow Resilience
+        - Distributed Architecture
+        - Responsible AI
+    validations:
+      required: true
+
+  - type: textarea
+    id: team-members
+    attributes:
+      label: Team Members
+      description: List all team members with GitHub usernames
+      placeholder: "- John Doe (@johndoe)\n- Jane Smith (@janesmith)"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Submission Agreement
+      description: Please confirm the following
+      options:
+        - label: I understand that my submission will be judged based on changes made to the repository before the submission deadline (June 27, 2025, 11:59 PM PT)
+          required: true
+        - label: I have included all required submission materials in my repository as outlined in the hackathon rules
+          required: true
+        - label: I have read and agree to the Official Contest Rules
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Note:** Please ensure your repository contains all required submission materials:
+        - Complete project code
+        - Detailed README.md with project information
+        - Demo video link (3-5 minutes)
+        - Any other supporting materials
