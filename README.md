@@ -8,7 +8,7 @@ Whether you're orchestrating autonomous agents, designing durable AI pipelines, 
 
 ## Rules and Eligibility
 
-Read the [Official Content Rules](./OfficialContestRules.md) thoroughly for all contest rules and eligibility criteria.
+Read the [Official Contest Rules](./OfficialContestRules.md) thoroughly for all contest rules and eligibility criteria.
 
 ## 🗓️ Timeline
 
