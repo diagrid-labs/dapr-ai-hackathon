@@ -22,13 +22,13 @@ Read the [Official Contest Rules](./OfficialContestRules.md) thoroughly for all 
 
 **Key technologies:**
 
-- **Dapr Workflow API:** for orchestrating multi-step processes, retries, approvals, and AI pipelines.
-- **Dapr Agents:** for implementing autonomous, intelligent services that operate collaboratively.
+- **[Dapr Workflow API](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/):** for orchestrating multi-step processes, retries, approvals, and AI pipelines.
+- **[Dapr Agents](https://dapr.github.io/dapr-agents/):** for implementing autonomous, intelligent services that operate collaboratively.
 
 **Development approach**:
 
-- Use **Dapr OSS** if you're building entirely within Kubernetes and want direct control of your infrastructure.
-- Use **Diagrid Catalyst** to simplify Dapr operations and access Dapr APIs across any compute platform — including Kubernetes, serverless functions, PaaS, VMs, or edge environments.
+- Use **[Dapr OSS](https://dapr.io/)** if you're building entirely within Kubernetes and want direct control of your infrastructure.
+- Use **[Diagrid Catalyst](https://www.diagrid.io/catalyst)** to simplify Dapr operations and access Dapr APIs across any compute platform — including Kubernetes, serverless functions, PaaS, VMs, or edge environments.
 
 Catalyst allows you to:
 
@@ -85,17 +85,19 @@ Examples:
 
 If your app needs to work across multiple compute environments — cloud functions, VMs, or edge — use **Diagrid Catalyst** to easily call Dapr APIs without needing to manage Kubernetes. Catalyst unlocks Dapr workflows and agents anywhere!
 
-*Tip:* Projects that show creative use of Catalyst are eligible (multi-cloud, hybrid, edge) for bonus prizes.
+> [!TIP]
+> Projects that show creative use of Catalyst are eligible (multi-cloud, hybrid, edge) for bonus prizes.
 
 ## 📝 Registration Criteria
 
-To register as an official hackathon participant you must fill out the participation form here: [ ]. Whether you choose to participate as a team, or as an individual, you must fill out the form.
+To register as an official hackathon participant you must fill out the [participation form](https://pages.diagrid.io/dapr-ai-hackthon). Whether you choose to participate as a team, or as an individual, you must fill out the form.
 
-**Important**: Before registering, it is recommended to read the official contest rules. These rules dictate who is eligible to participate and receive prize money, along with the registration and submission requirements in more detail.
+> [!IMPORTANT]
+> Before registering, it is recommended to read the official contest rules. These rules dictate who is eligible to participate and receive prize money, along with the registration and submission requirements in more detail.
 
 Once you have completed the registration, you will receive a confirmation email with more details and a reminder of the following registration requirements:
 
-1. You must join the Diagrid Discord channel where you can connect to other Hackathon participants, introduce yourself, connect with Dapr experts, find teammates, etc.
+1. You must join the [Diagrid Discord](https://diagrid.ws/diagrid-discord) server where you can connect to other Hackathon participants, introduce yourself, connect with Dapr experts, find teammates, etc.
 1. You must create an issue in this GitHub repo using the `Project Submission` template as a placeholder for your submission. This can also be used to help source teammates who may be interested in joining your efforts.
 
 ## 📝 Submission Criteria
@@ -131,4 +133,5 @@ To qualify for judging, your `Project Submission` issue must be updated by 6/27 
 | 🧩 *(Bonus)* **Best Catalyst solution** | Most creative solution using serverless Dapr via Catalyst | $500 |
 | 🗣️ *(Bonus)* **Most Valuable Feedback (x4)** | For participants who provide valuable feedback related to Dapr and/or Catalyst | $125 |
 
-*Note:* Projects that win overall prizes are also eligible for up to one bonus prize
+> [!NOTE]
+> Projects that win overall prizes are also eligible for up to one bonus prize
