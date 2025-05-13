@@ -50,7 +50,7 @@ By entering a Submission on behalf of a Team, you represent and warrant that you
 
 To register for the hackathon, Entrants must:
 
-1. Complete the registration form at https://diagrid.ws/daprAI-hackathon.
+1. Complete the registration form at https://diagrid.ws/dapr-ai-hackathon.
 2. Join the Diagrid Discord channel: https://diagrid.ws/diagrid-discord.
 3. Create an issue in the hackathon GitHub repository using the "Project Submission" template
 
