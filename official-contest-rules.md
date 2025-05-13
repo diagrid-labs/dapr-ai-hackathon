@@ -19,7 +19,7 @@ Diagrid Inc., 30300 23rd Avenue Southwest, Federal Way, WA 98023, United States 
 
 The Hackathon is open to all individuals who meet the eligibility requirements.
 
-As a condition of participation, each individual participant—whether participating independently or as part of a team—must individually complete and submit the official registration form, available at https://diagrid.ws/daprAI-hackathon, during the Hackathon Registration Period.
+As a condition of participation, each individual participant—whether participating independently or as part of a team—must individually complete and submit the official registration form, available at https://diagrid.ws/dapr-ai-hackathon, during the Hackathon Registration Period.
 
 Upon submission of a completed registration form, participants will be considered officially registered for the Hackathon, with no additional invitation from the Sponsor required.
 
