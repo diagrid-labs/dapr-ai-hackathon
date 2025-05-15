@@ -24,7 +24,7 @@ Build an AI-powered application that uses Dapr Workflow Orchestration to enable 
 Prize eligibility requires finalizing your registration by completing the steps below:
 
 1. Fill out the [Registration form](https://pages.diagrid.io/dapr-ai-hackthon). Whether you choose to participate as a team, or as an individual, you must fill out the form.
-1. Join the [Diagrid Discord](https://diagrid.ws/diagrid-discord) server where you can connect to other Hackathon participants, introduce yourself, connect with Dapr experts, find teammates, etc.
+1. Join the [Diagrid Discord](https://diagrid.ws/hack-discord) server where you can connect to other Hackathon participants, introduce yourself, connect with Dapr experts, find teammates, etc.
 1. Start your project using the [official project template repository](https://github.com/diagrid-labs/dapr-ai-hackathon-project):  
     - Click the `Use this template` button to create a new public or private repository
     - Name your repository according to your project idea  
