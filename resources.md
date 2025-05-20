@@ -26,7 +26,12 @@
 * [Author a Workflow](https://docs.dapr.io/developing-applications/building-blocks/workflow/howto-author-workflow/)
 * [Manage Workflows](https://docs.dapr.io/developing-applications/building-blocks/workflow/howto-manage-workflow/)
 
-## 🆕 [Workflow Composer](https://workflows.diagrid.io) — Instantly generate Dapr apps from diagrams
+### Code Examples
+- [.NET Workflow Patterns Overview](https://github.com/diagrid-labs/dapr-workflow-demos)
+- [Dapr University Course on Workflows](https://www.diagrid.io/dapr-university)
+- [Workflow Resiliency](https://github.com/diagrid-labs/dapr-resiliency-and-durable-execution)
+
+### 🆕 [Workflow Composer](https://workflows.diagrid.io) — Instantly generate Dapr apps from diagrams
 
 **Workflow Composer** is a free, AI-powered tool that turns workflow diagrams into fully functional Dapr Workflow applications. Use it to accelerate prototyping or jumpstart real implementations—no boilerplate required.
 
