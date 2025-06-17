@@ -6,10 +6,10 @@ SUBMISSION OF ANY ENTRY CONSTITUTES AGREEMENT TO THESE OFFICIAL RULES AS A CONTR
 
 ## 1. Dates and Timing
 
-- **Hackathon Registration Period**: May 12, 2025 (12:00 am Pacific Time) – June 27, 2025 (11:59 pm Pacific Time)
-- **Hackathon Submission Period**: May 16, 2025 (12:00 am Pacific Time) – June 27, 2025 (11:59 pm Pacific Time)
-- **Judging Period**: June 30, 2025 (9:00 am Pacific Time) – July 10, 2025 (5:00 pm Pacific Time)
-- **Winners Announced**: On or around July 11, 2025 (12:00 pm Pacific Time)
+- **Hackathon Registration Period**: May 12, 2025 (12:00 am Pacific Time) – July 18, 2025 (11:59 pm Pacific Time)
+- **Hackathon Submission Period**: May 16, 2025 (12:00 am Pacific Time) – July 18, 2025 (11:59 pm Pacific Time)
+- **Judging Period**: June 21, 2025 (9:00 am Pacific Time) – June 30, 2025 (5:00 pm Pacific Time)
+- **Winners Announced**: On or around August 1, 2025 (12:00 pm Pacific Time)
 
 ## 2. Sponsor and Administrator
 
