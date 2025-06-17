@@ -9,8 +9,8 @@ Whether you're orchestrating autonomous agents, designing durable AI pipelines, 
 ## 🗓️ Timeline
 
 - **Hackathon Kickoff:** 5/16  
-- **Submission Deadline:** 6/27  
-- **Announcement of Winners:** 7/11  
+- **Submission Deadline:** 7/18 
+- **Announcement of Winners:** 8/1
 
 ## Challenge
 
@@ -52,9 +52,4 @@ Stay engaged throughout the Hackathon by joining our weekly virtual gatherings o
 | (05/14) Wednesday, May 14th @ 9 AM PST   | Virtual Dapr Community Call | [Join](https://github.com/dapr/community/issues/600) |
 | (05/16) Friday, May 16th  @ 8 AM PST  | Virtual Hackathon Kick-off | [Register](https://pages.diagrid.io/dapr-ai-hackthon) |
 | (05/20) Tuesday, May 20th @ 5:30 PST | In-person Dapr AI Hack in Seattle | [Register](https://pages.diagrid.io/dapr-pub-hackathon) |
-| (05/21) Wednesday, May 21st  @ 12 PM PST  | Virtual Hack Room | [Add to calendar](https://discord.com/events/1255285156739285114/1371676351039410308) |
-| (05/28) Wednesday, May 28th  @ 12 PM PST  | Virtual Hack Room | [Add to calendar](https://discord.com/events/1255285156739285114/1371676351039410308) |
-| (06/4) Wednesday, June 4th  @ 12 PM PST  | Virtual Hack Room | [Add to calendar](https://discord.com/events/1255285156739285114/1371676351039410308) |
 | (06/11) Wednesday, June 11th @ 9 AM PST   | Virtual Dapr Community Call | [Join](https://github.com/dapr/community/issues/601) |
-| (06/18) Wednesday, June 18th  @ 12 PM PST  | Virtual Hack Room | [Add to calendar](https://discord.com/events/1255285156739285114/1371676351039410308) |
-| (06/25) Wednesday, June 25th  @ 12 PM PST  | Virtual Hack Room | [Add to calendar](https://discord.com/events/1255285156739285114/1371676351039410308) |
