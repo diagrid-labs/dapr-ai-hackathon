@@ -38,7 +38,7 @@
 
 **How it works:**
 
-1. Create a diagram using tools like Excalidraw, draw\.io, Lucidchart, etc.
+1. Create a diagram using tools like Excalidraw, draw.io, Lucidchart, etc.
 2. Upload it to Workflow Composer and choose your programming language.
 3. Download a complete Dapr workflow app, including activity stubs, configs, and instructions.
 
