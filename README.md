@@ -34,7 +34,7 @@ Once you have completed these steps, you are ready to hack!
 
 ## 📝 Submission & Prizes
 
-For your project to be prize-eligible, you must create a [Project Submission](https://github.com/diagrid-labs/dapr-ai-hackathon/issues/new/choose) in this GitHub repository by June 27th at 11:59 PM. See [Project Guidelines](./project-guidelines.md) for more details on:
+For your project to be prize-eligible, you must create a [Project Submission](https://github.com/diagrid-labs/dapr-ai-hackathon/issues/new/choose) in this GitHub repository by July 18th at 11:59 PM. See [Project Guidelines](./project-guidelines.md) for more details on:
 
 - [Project submission guidelines](./project-guidelines.md#-submission-requirements)
 - [Judging criteria](./project-guidelines.md#️-judging-criteria)
