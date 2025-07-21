@@ -9,8 +9,8 @@ Whether you're orchestrating autonomous agents, designing durable AI pipelines, 
 ## 🗓️ Timeline
 
 - **Hackathon Kickoff:** 5/16  
-- **Submission Deadline:** 7/18 
-- **Announcement of Winners:** 8/1
+- **Submission Deadline:** 8/1 
+- **Announcement of Winners:** 8/15
 
 ## Challenge
 
