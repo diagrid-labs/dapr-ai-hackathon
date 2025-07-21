@@ -56,7 +56,7 @@ body:
       label: Submission Agreement
       description: Please confirm the following
       options:
-        - label: I understand that my submission will be judged based on changes made to the repository before the submission deadline (June 27, 2025, 11:59 PM PT)
+        - label: I understand that my submission will be judged based on changes made to the repository before the submission deadline (August 1, 11:59 PM PT)
           required: true
         - label: I have included all required submission materials in my repository as outlined in the hackathon rules
           required: true
