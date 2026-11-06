@@ -27,7 +27,7 @@
 * [Manage Workflows](https://docs.dapr.io/developing-applications/building-blocks/workflow/howto-manage-workflow/)
 
 ### Code Examples
-- [Catalyst Workflow Example](https://github.com/diagrid-labs/catalyst-order-workflow)
+- [Diagrid Workflow Example](https://github.com/diagrid-labs/catalyst-order-workflow)
 - [.NET Workflow Patterns Overview](https://github.com/diagrid-labs/dapr-workflow-demos)
 - [Dapr University Course on Workflows](https://www.diagrid.io/dapr-university)
 - [Workflow Resiliency](https://github.com/diagrid-labs/dapr-resiliency-and-durable-execution)
@@ -55,9 +55,9 @@ Try it out here 👉 [workflow-composer.diagrid.io](https://workflows.diagrid.io
 > Great way to get started if you’re unsure how to structure your workflow project.
 > Can also be a great resource to reference for the AI-powered development bonus prize!
 
-## Diagrid Catalyst
+## Diagrid
 
-* Documentation: [https://docs.diagrid.io/catalyst](https://docs.diagrid.io/catalyst)
+* Documentation: [https://docs.diagrid.io/concepts/what-is-diagrid/](https://docs.diagrid.io/concepts/what-is-diagrid/)
 
 ### Benefits Recap
 

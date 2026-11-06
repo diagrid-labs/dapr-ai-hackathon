@@ -67,9 +67,9 @@ Entry in the Hackathon constitutes consent for the Sponsor to collect and mainta
 
 - Project Name and Summary: A brief overview of your application and its core use case.
 - Challenge Category (from the four provided)
-- Technology Used: Indicate whether you used Dapr OSS, Catalyst, or both — and which Dapr APIs you leveraged (Workflow API, Pub/Sub, State, etc.).
+- Technology Used: Indicate whether you used Dapr OSS, Diagrid, or both — and which Dapr APIs you leveraged (Workflow API, Pub/Sub, State, etc.).
 - Link to Code Repository: A URL to a GitHub repository where the code for the project is hosted. The repository should contain a README.md file outlining the project's features and functionality with instructions on how to run and deploy the solution. If your repo is private, access must be granted to the judging panel.
-- Demo Video (3–5 minutes): Show the working application, the workflow or agent behavior, and highlight how Dapr and/or Catalyst was used.
+- Demo Video (3–5 minutes): Show the working application, the workflow or agent behavior, and highlight how Dapr and/or Diagrid was used.
 - Optional (but encouraged): Screenshots, architecture diagram, or supporting materials.
 - Optional (but encouraged): If your app includes a frontend, dashboard, or API service, please share a hosted link or public endpoint for judges to explore.
 
@@ -77,7 +77,7 @@ Entry in the Hackathon constitutes consent for the Sponsor to collect and mainta
 
 Feedback submissions must be made during the Hackathon Submission Period and meet the following requirements:
 
-- Submitted a Project for the Hackathon | Submit an eligible project for the Hackathon to offer valuable feedback on your experience with Dapr and/or Diagrid Catalyst.
+- Submitted a Project for the Hackathon | Submit an eligible project for the Hackathon to offer valuable feedback on your experience with Dapr and/or Diagrid.
 - Completed Feedback Submission Form | Provide complete and comprehensive feedback at https://diagrid.ws/hackathon-feedback.
 (each a “Feedback Submission”).
 
@@ -155,7 +155,7 @@ All eligible Submissions will be evaluated by the Judges based on the following 
   Does the project clearly address one of the defined challenge categories? Is it well-scoped and complete? Does it demonstrate meaningful use of orchestration patterns (e.g., workflows, agents) with minimal shortcuts or incomplete components?
 
 - **Creativity and Innovation**  
-  Is the problem being solved original or approached in a novel way? Does the project introduce a unique or unconventional perspective on how to use Dapr and Catalyst to build intelligent applications?
+  Is the problem being solved original or approached in a novel way? Does the project introduce a unique or unconventional perspective on how to use Dapr and Diagrid to build intelligent applications?
 
 - **Technical Excellence**  
   Is the codebase clean, functional, and well-structured? Does the project demonstrate strong engineering fundamentals and effective use of Dapr building blocks (e.g., pub/sub, service invocation, state management, bindings)? Does it show thoughtful integration of Dapr APIs?
@@ -187,7 +187,7 @@ All Submissions remain the intellectual property of the individuals or organizat
 | **Runner Up**   | $1,000 USD  | 2  | All eligible Project submissions |
 | **Most Creative Use Case** | $1,000 USD  | 1 | All eligible Project submissions |
 | *(Bonus)* **Best use of AI in solution development** | $500 USD | 1 | All eligible Project submissions |
-| *(Bonus)* **Best Catalyst solution** | $500 USD | 1 | All eligible Project submissions using Catalyst |
+| *(Bonus)* **Best Diagrid solution** | $500 USD | 1 | All eligible Project submissions using Diagrid |
 | *(Bonus)* **Most Valuable Feedback** | $125 USD | Up to 4 | All entrants associated with an eligible Project submission |
 | **Participation Prize** | Diagrid Swag & Verifiable digital badge | While supplies last | All entrants associated with an eligible Project submission |
 

@@ -2,7 +2,7 @@
 
 Join us for the **Dapr AI Hackathon x Diagrid** — a global challenge to build intelligent, resilient, and scalable AI applications using the power of **Dapr Workflows** and **Dapr Agents**.
 
-Harness the flexibility of **Dapr open-source** within Kubernetes, or expedite your Dapr API usage through **Diagrid Catalyst** to create next-generation applications that span cloud, serverless, and edge environments.
+Harness the flexibility of **Dapr open-source** within Kubernetes, or expedite your Dapr API usage through **Diagrid** to create next-generation applications that span cloud, serverless, and edge environments.
 
 Whether you're orchestrating autonomous agents, designing durable AI pipelines, or ensuring responsible AI behavior, this hackathon is your opportunity to push the boundaries of distributed intelligence.
 
