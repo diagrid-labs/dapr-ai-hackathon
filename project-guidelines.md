@@ -8,9 +8,9 @@ Your submission must include:
 
 * **Project Name and Summary:** A brief overview of your application and core use case.
 * **Challenge Category:** Choose one of the four outlined categories.
-* **Technology Used:** Specify whether you used Dapr OSS, Catalyst, or both — and which Dapr APIs were used (Workflow API, Pub/Sub, State, etc.).
+* **Technology Used:** Specify whether you used Dapr OSS, Diagrid, or both — and which Dapr APIs were used (Workflow API, Pub/Sub, State, etc.).
 * **Code Repository:** Link to a GitHub repository containing your code. Your `README.md` must explain project features and include instructions for running and deploying the app. If the repo is private, grant access to the judging panel.
-* **Demo Video (3–5 minutes):** Show your working app, the workflow or agent behavior, and how Dapr and/or Catalyst were used.
+* **Demo Video (3–5 minutes):** Show your working app, the workflow or agent behavior, and how Dapr and/or Diagrid were used.
 * **Optional (but encouraged):**
 
   * Screenshots, architecture diagram, or supporting visuals.
@@ -31,10 +31,10 @@ Projects will be evaluated based on the following:
 | **Creativity and Innovation**                   | Originality of the problem and solution                                                       |
 | **Technical Excellence**                        | Code quality and solution completeness, use of Dapr building blocks effectively               |
 | **Project Delivery**                            | Clear articulation of the project’s architecture, approach, and implementation                |
-| **Distributed Thinking (Bonus)**                | Extra credit for apps spanning multiple platforms, edge, serverless (especially via Catalyst) |
+| **Distributed Thinking (Bonus)**                | Extra credit for apps spanning multiple platforms, edge, serverless (especially via Diagrid) |
 
 > \[!TIP]
-> Projects that win overall prizes are also eligible for one bonus prize (e.g., Best Catalyst use, Best AI enhancement, or Feedback Awards).
+> Projects that win overall prizes are also eligible for one bonus prize (e.g., Best Diagrid use, Best AI enhancement, or Feedback Awards).
 
 ---
 
@@ -48,8 +48,8 @@ A total of **\$6,000 in prizes** will be awarded across the following categories
 | 🥈 **Runner Up**                             | Second-highest scoring project overall                                                   | \$1,000    |
 | 🌟 **Most Creative Use Case**                | Rewarded for exceptional originality in concept or application                           | \$1,000    |
 | 💡 **Best Use of AI Tools** *(Bonus)*        | Awarded for effective use of AI to enhance development, testing, or performance          | \$500      |
-| 🧩 **Best Catalyst Solution** *(Bonus)*      | Awarded for the most creative and impactful use of Diagrid Catalyst                      | \$500      |
-| 🗣️ **Most Valuable Feedback** *(Bonus, x4)* | Awarded to participants who offer insightful feedback that improves Dapr and/or Catalyst | \$125 each |
+| 🧩 **Best Diagrid Solution** *(Bonus)*      | Awarded for the most creative and impactful use of Diagrid                      | \$500      |
+| 🗣️ **Most Valuable Feedback** *(Bonus, x4)* | Awarded to participants who offer insightful feedback that improves Dapr and/or Diagrid | \$125 each |
 
 > \[!NOTE]
 > Overall prize winners are also eligible for up to one bonus prize.

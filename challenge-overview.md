@@ -10,16 +10,16 @@
 ## Development Approach
 
 * Use **[Dapr OSS](https://dapr.io/)** if you're building entirely within Kubernetes and want direct control of your infrastructure.
-* Use **[Diagrid Catalyst](https://www.diagrid.io/catalyst)** to simplify Dapr operations and access Dapr APIs across any compute platform — including Kubernetes, serverless functions, PaaS, VMs, or edge environments.
+* Use **[Diagrid](https://www.diagrid.io/catalyst)** to simplify Dapr operations and access Dapr APIs across any compute platform — including Kubernetes, serverless functions, PaaS, VMs, or edge environments.
 
-### Benefits of Diagrid Catalyst
+### Benefits of Diagrid
 
 * Spin up remote Dapr sidecars through a centralized SaaS platform managed by Diagrid.
 * Use Dapr with Kubernetes workloads without managing the control plane.
 * Extend Dapr to non-Kubernetes platforms using the same APIs.
 * Eliminate the operational overhead of running and maintaining Dapr OSS.
 
-All participants receive access to a free Catalyst environment with increased limits for use during the hackathon.
+All participants receive access to a free Diagrid environment with increased limits for use during the hackathon.
 
 ## Challenge Categories
 
@@ -63,9 +63,9 @@ Examples:
 * Compliance and audit workflows
 * Failure recovery systems
 
-## Bonus: Using Diagrid Catalyst
+## Bonus: Using Diagrid
 
-If your app spans multiple environments — cloud functions, VMs, edge — use **Diagrid Catalyst** to easily call Dapr APIs without managing Kubernetes.
+If your app spans multiple environments — cloud functions, VMs, edge — use **Diagrid** to easily call Dapr APIs without managing Kubernetes.
 
 > [!TIP]
-> Projects using Catalyst creatively (multi-cloud, hybrid, edge) are eligible for bonus prizes.
+> Projects using Diagrid creatively (multi-cloud, hybrid, edge) are eligible for bonus prizes.
